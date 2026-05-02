@@ -1,0 +1,41 @@
+# Variables
+BINARY_NAME=crawler
+GO_FILES=./crawler.go
+
+# .PHONY tells Make that these are not physical files
+.PHONY: all build run clean test fmt help
+
+# Default target: builds the project
+all: fmt build
+
+# Compile the project and create a binary in the bin/ directory
+build:
+	@echo "==> Building binary..."
+	@mkdir -p bin
+	go build -o bin/$(BINARY_NAME) $(GO_FILES)
+
+# Run the application directly
+run:
+	@go run $(GO_FILES)
+
+# Format Go code according to official standards
+fmt:
+	@echo "==> Formatting code..."
+	go fmt ./...
+
+# Clean build artifacts
+clean:
+	@echo "==> Cleaning build directory..."
+	@rm -rf bin
+	@go clean
+
+# Display help information about available commands
+help:
+	@echo "Usage: make [target]"
+	@echo ""
+	@echo "Targets:"
+	@echo "  build   Compile the project"
+	@echo "  run     Run the project"
+	@echo "  fmt     Format source code"
+	@echo "  clean   Remove binary files"
+	@echo "  all     Format and build"

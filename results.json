@@ -1,0 +1,332 @@
+[
+  {
+   "url": "https://github.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://asana.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://stackoverflow.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://vercel.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://trello.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://discord.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://medium.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://docker.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://heroku.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://slack.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://aws.amazon.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://cloud.google.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://apple.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://twitter.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://atlassian.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://reddit.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://linkedin.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://ansible.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://flickr.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://gitlab.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://tumblr.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://figma.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://pinterest.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://vimeo.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://forbes.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://youtube.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://techcrunch.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://dribbble.com",
+   "statusCode": 200,
+   "result": "\u003c!-- message goes here --\u003e"
+  },
+  {
+   "url": "https://theverge.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://wsj.com",
+   "statusCode": 401,
+   "result": ""
+  },
+  {
+   "url": "https://cloudflare.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://bbc.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://cnn.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://reuters.com",
+   "statusCode": 401,
+   "result": ""
+  },
+  {
+   "url": "https://bloomberg.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://netlify.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://doordash.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://mashable.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://gizmodo.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://thenextweb.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://economist.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://venturebeat.com",
+   "statusCode": 429,
+   "result": ""
+  },
+  {
+   "url": "https://engadget.com",
+   "statusCode": 200,
+   "result": "\u003ca href=\"/2162731/tesla-starts-selling-chinese-made-model-3s-in-canada-at-lowest-price-ever/\"\u003eTesla starts selling Chinese-made Model 3s in Canada at the EV's lowest price ever\u003c/a\u003e"
+  },
+  {
+   "url": "https://wired.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://airbnb.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://cnet.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://homedepot.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://walmart.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://lenovo.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://northface.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://uber.com",
+   "statusCode": 406,
+   "result": ""
+  },
+  {
+   "url": "https://ikea.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://zara.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://tripadvisor.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://nike.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://sony.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://instacart.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://dell.com",
+   "statusCode": 403,
+   "result": ""
+  },
+  {
+   "url": "https://zdnet.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://booking.com",
+   "statusCode": 202,
+   "result": ""
+  },
+  {
+   "url": "https://ebay.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://lyft.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://hp.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://target.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://lg.com",
+   "statusCode": 200,
+   "result": ""
+  },
+  {
+   "url": "https://samsung.com",
+   "statusCode": 200,
+   "result": ""
+  }
+ ]
