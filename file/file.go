@@ -45,6 +45,6 @@ func ReadFile(path string, targetList *[]data.Target) {
     }
 
     for _, record := range records {
-        *targetList = append(*targetList, data.Target{record[0]})
+        *targetList = append(*targetList, data.Target{Url: record[0]})
     }
 }

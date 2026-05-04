@@ -44,7 +44,7 @@ func GetUrlHttpBody(chFinalUrlParsingSender <-chan string, chFinalUrlParsingRece
 			resultString = GetStringBetweenTags(scanner.Text(), "<"+tag+">", "</"+tag+">")
 		}
 
-		chFinalUrlParsingReceiver <- data.Result{url, response.StatusCode, resultString}
+		chFinalUrlParsingReceiver <- data.Result{Url: url, StatusCode: response.StatusCode, Result: resultString}
 
 		response.Body.Close()
 	}

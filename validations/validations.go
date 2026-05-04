@@ -1,6 +1,7 @@
 package validations
 
 import(
+	"fmt"
 	"errors"
 )
 
@@ -22,7 +23,7 @@ type ValidateUrlLength struct{}
 
 func (ValidateUrlLength) Validate(url string) (bool, error) {
 	if len(url) > 100 {
-		return false, errors.New("Oversized URL - Length: " + string(len(url)))
+		return false, errors.New("Oversized URL - Length: " + fmt.Sprint(len(url)))
 	}
 
 	return true, nil
