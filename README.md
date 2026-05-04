@@ -43,7 +43,7 @@ The system follows a **Producer-Consumer pipeline**:
 ### Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/your-user/grawler.git](https://github.com/your-user/grawler.git)
+git clone https://github.com/ViniFerreira07/grawler.git
 cd grawler
 
 # Build the project using the Makefile
