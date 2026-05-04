@@ -47,4 +47,4 @@ git clone [https://github.com/your-user/grawler.git](https://github.com/your-use
 cd grawler
 
 # Build the project using the Makefile
-make build#
+make build
