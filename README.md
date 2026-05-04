@@ -8,7 +8,7 @@
 
 This project was developed to explore the core strengths of the Go language, focusing on:
 
-*   **Advanced Concurrency:** Utilizing `errgroup` and `sync.WaitGroup` for managed goroutine lifecycles.
+*   **Advanced Concurrency:** Utilizing `sync.WaitGroup` for managed goroutine lifecycles.
 *   **The Go Way:** Idiomatic error handling and explicit memory management using pointers.
 *   **Decoupled Architecture:** Heavy use of **Interfaces** to allow easy extension of "Checker" logic (Open/Closed Principle).
 *   **Resource Safety:** Strict use of `defer` for closing network connections and file descriptors to prevent memory leaks.
